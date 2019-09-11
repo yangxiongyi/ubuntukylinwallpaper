@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 18.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/bionic.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Love Lotus</name>
+    <name xml:lang="zh_CN">爱莲</name>
+    <filename>/usr/share/backgrounds/love-lotus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Half the sky</name>
+    <name xml:lang="zh_CN">半边</name>
+    <filename>/usr/share/backgrounds/half-the-sky.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>A World of Ice and Snow</name>
+    <name xml:lang="zh_CN">冰天雪地</name>
+    <filename>/usr/share/backgrounds/a_world_of_ice_and_snow.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Grassy</name>
+    <name xml:lang="zh_CN">草蒙茸</name>
+    <filename>/usr/share/backgrounds/grassy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ocean</name>
+    <name xml:lang="zh_CN">大海</name>
+    <filename>/usr/share/backgrounds/ocean.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Nature</name>
+    <name xml:lang="zh_CN">大自然</name>
+    <filename>/usr/share/backgrounds/nature.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Winter Fairy Tales</name>
+    <name xml:lang="zh_CN">冬天童话</name>
+    <filename>/usr/share/backgrounds/winter_fairy_tales.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Good Luck in the Year of Dog</name>
+    <name xml:lang="zh_CN">狗年大吉</name>
+    <filename>/usr/share/backgrounds/good_luck_in_the_year_of_dog.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Blue Sky and Sea</name>
+    <name xml:lang="zh_CN">海天一色</name>
+    <filename>/usr/share/backgrounds/blue_sky_and_sea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Whisper of the Flower</name>
+    <name xml:lang="zh_CN">花语</name>
+    <filename>/usr/share/backgrounds/whisper_of_the_flower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Blooming flower</name>
+    <name xml:lang="zh_CN">花灼烁</name>
+    <filename>/usr/share/backgrounds/blooming-flower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Easy3</name>
+    <name xml:lang="zh_CN">简单3</name>
+    <filename>/usr/share/backgrounds/easy3.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Jasmine</name>
+    <name xml:lang="zh_CN">茉莉花</name>
+    <filename>/usr/share/backgrounds/jasmine.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Silence Ridges and Peaks around house</name>
+    <name xml:lang="zh_CN">默——峰峦绕舍茉莉花</name>
+    <filename>/usr/share/backgrounds/silence-ridges_and_peaks_around_house.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Qi nian</name>
+    <name xml:lang="zh_CN">祈年</name>
+    <filename>/usr/share/backgrounds/qi-nian.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Water</name>
+    <name xml:lang="zh_CN">上善若水</name>
+    <filename>/usr/share/backgrounds/water.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Glittering water</name>
+    <name xml:lang="zh_CN">水光</name>
+    <filename>/usr/share/backgrounds/glittering-water.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Jellyfish</name>
+    <name xml:lang="zh_CN">水母</name>
+    <filename>/usr/share/backgrounds/jellyfish.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Crab cactus</name>
+    <name xml:lang="zh_CN">蟹爪兰</name>
+    <filename>/usr/share/backgrounds/crab-cactus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Pearls and Jewelry</name>
+    <name xml:lang="zh_CN">珍珠与宝石</name>
+    <filename>/usr/share/backgrounds/pearls_and_jewelry.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Warty Final Ubuntukylin</name>
+    <name xml:lang="zh_CN">默认-游龙</name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

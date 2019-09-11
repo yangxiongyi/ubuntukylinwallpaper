@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 18.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/ubuntukylin/cosmic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>APP</name>
+     <name xml:lang="zh_CN">app</name>
+     <filename>/usr/share/backgrounds/app.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>A_Spot_in_Dalian_Development_Zone</name>
+     <name xml:lang="zh_CN">大连开发区一隅</name>
+     <filename>/usr/share/backgrounds/a_spot_in_dalian_development_zone.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Island</name>
+     <name xml:lang="zh_CN">岛</name>
+     <filename>/usr/share/backgrounds/island.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Winter_Quite</name>
+     <name xml:lang="zh_CN">冬之静谧</name>
+     <filename>/usr/share/backgrounds/winter_quite.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Unique</name>
+     <name xml:lang="zh_CN">独特</name>
+     <filename>/usr/share/backgrounds/unique.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Love_Between_Bees_and_Flowers</name>
+     <name xml:lang="zh_CN">蜂花之恋</name>
+     <filename>/usr/share/backgrounds/love_between_bees_and_flowers.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Watch</name>
+     <name xml:lang="zh_CN">观望</name>
+     <filename>/usr/share/backgrounds/watch.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>The_Yellow_River</name>
+     <name xml:lang="zh_CN">黄河</name>
+     <filename>/usr/share/backgrounds/the_yellow_river.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Dusk</name>
+     <name xml:lang="zh_CN">黄昏</name>
+     <filename>/usr/share/backgrounds/dusk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>The_deer_only_appears_in_the_deep_forest</name>
+     <name xml:lang="zh_CN">林深见鹿</name>
+     <filename>/usr/share/backgrounds/the_deer_only_appears_in_the_deep_forest.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Journey</name>
+     <name xml:lang="zh_CN">旅程</name>
+     <filename>/usr/share/backgrounds/journey.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tiny</name>
+     <name xml:lang="zh_CN">渺小</name>
+     <filename>/usr/share/backgrounds/tiny.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Leaf_on_the_Window</name>
+     <name xml:lang="zh_CN">粘在玻璃上的树叶</name>
+     <filename>/usr/share/backgrounds/Leaf_on_the_Window.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Intimacy</name>
+     <name xml:lang="zh_CN">亲昵</name>
+     <filename>/usr/share/backgrounds/intimacy.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>The_Sea_in_the_Morning</name>
+     <name xml:lang="zh_CN">清晨，那片海</name>
+     <filename>/usr/share/backgrounds/the_sea_in_the_morning.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>On_the_Grassland</name>
+     <name xml:lang="zh_CN">青草原上</name>
+     <filename>/usr/share/backgrounds/on_the_grassland.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Summer</name>
+     <name xml:lang="zh_CN">夏日</name>
+     <filename>/usr/share/backgrounds/summer.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Small_Flowers</name>
+     <name xml:lang="zh_CN">小花</name>
+     <filename>/usr/share/backgrounds/small_flowers1810.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sunny</name>
+     <name xml:lang="zh_CN">夏日</name>
+     <filename>/usr/share/backgrounds/sunny.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+  <wallpaper>
+     <name>Light_in_the_Night</name>
+     <name xml:lang="zh_CN">夜光</name>
+     <filename>/usr/share/backgrounds/light_in_the_night.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+  <wallpaper>
+     <name>Cole_Flowers</name>
+     <name xml:lang="zh_CN">油菜花</name>
+     <filename>/usr/share/backgrounds/cole_flowers.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+  <wallpaper>
+     <name>Freedom</name>
+     <name xml:lang="zh_CN">自由</name>
+     <filename>/usr/share/backgrounds/freedom.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Warty Final Ubuntukylin</name>
+     <name xml:lang="zh_CN">默认-游龙</name>
+     <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

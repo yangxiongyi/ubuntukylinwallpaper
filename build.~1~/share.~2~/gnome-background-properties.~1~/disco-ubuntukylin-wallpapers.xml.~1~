@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 19.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/disco.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Twilight in the north of Xinjiang</name>
+    <name xml:lang="zh_CN">北疆暮色</name>
+    <filename>/usr/share/backgrounds/twilight_in_the_north_of_xinjiang.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Morning dew</name>
+    <name xml:lang="zh_CN">晨露</name>
+    <filename>/usr/share/backgrounds/morning_dew.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dalian Tianmen Mountain Scenic Area</name>
+    <name xml:lang="zh_CN">大连天门山景区</name>
+    <filename>/usr/share/backgrounds/dalian_tianmen_mountain_scenic_area.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sea and sky</name>
+    <name xml:lang="zh_CN">海天一色</name>
+    <filename>/usr/share/backgrounds/sea_and_sky.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Simple light</name>
+    <name xml:lang="zh_CN">简约光感</name>
+    <filename>/usr/share/backgrounds/simple_light.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Holiday night</name>
+    <name xml:lang="zh_CN">节日之夜</name>
+    <filename>/usr/share/backgrounds/holiday_night.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Cool technology</name>
+    <name xml:lang="zh_CN">酷炫科技</name>
+    <filename>/usr/share/backgrounds/cool_technology.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Rest</name>
+    <name xml:lang="zh_CN">憩</name>
+    <filename>/usr/share/backgrounds/rest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Mountain stream</name>
+    <name xml:lang="zh_CN">山涧清流</name>
+    <filename>/usr/share/backgrounds/mountain_stream.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Township road</name>
+    <name xml:lang="zh_CN">乡路</name>
+    <filename>/usr/share/backgrounds/township_road.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Star bright</name>
+    <name xml:lang="zh_CN">星光璀璨</name>
+    <filename>/usr/share/backgrounds/star_bright.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Clear day after the snow</name>
+    <name xml:lang="zh_CN">雪后初晴</name>
+    <filename>/usr/share/backgrounds/clear_day_after_the_snow.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Rapeseed blossom</name>
+    <name xml:lang="zh_CN">油菜花开</name>
+    <filename>/usr/share/backgrounds/rapeseed_blossom.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>tulip</name>
+    <filename>/usr/share/backgrounds/tulip1904.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Chinese style</name>
+    <name xml:lang="zh_CN">中国风</name>
+    <filename>/usr/share/backgrounds/chinese_style.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Warty Final Ubuntukylin</name>
+    <name xml:lang="zh_CN">默认-游龙</name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
